@@ -7,7 +7,7 @@
     "wcmain"
   ],
   "ignoreDeps": [
-    "hystrix-core"
+    "com.netflix.hystrix:hystrix-core"
   ],
   "labels": [
     "dependencies"
