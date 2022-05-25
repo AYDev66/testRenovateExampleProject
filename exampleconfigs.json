@@ -18,6 +18,8 @@
         "minor",
         "patch"
       ],
+      "groupName": minorDependencies,
+      "prCreation": "immediate",
       "automerge": true
     },
     {
